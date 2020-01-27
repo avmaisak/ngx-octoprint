@@ -1,0 +1,33 @@
+{
+  "name": "ngx-octoprint-api-types",
+  "version": "0.0.1",
+  "description": "Octoprint API wrapper for angular",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avmaisak/ngx-octoprint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avmaisak/ngx-octoprint/issues"
+  },
+  "keywords": [
+    "angular2",
+    "angular",
+    "ngx",
+    "octoprint",
+    "octoprint-api",
+    "api",
+    "3dprinting",
+    "components",
+    "library"
+  ],
+  "author": "Anton Maisak",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
